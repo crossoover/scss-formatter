@@ -1,2 +1,0 @@
-*{box-sizing:border-box;margin:0;padding:0;font-family:sans-serif}.app{display:flex;align-items:center}.app textarea{width:400px;height:90vh;margin:5vh 2vw 0;padding:15px}.app div{display:flex;flex-direction:column;align-items:center;justify-content:center}.app button{padding:5px;height:30px;margin:20px 20px 0;font-weight:700;background:transparent;cursor:pointer;transition:.2s}.app button:hover{background:#cacaca}button,textarea{border:3px solid #000;border-radius:0;outline:none}
-/*# sourceMappingURL=main.1c28e19b.chunk.css.map */
